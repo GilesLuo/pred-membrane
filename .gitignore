@@ -1,0 +1,6 @@
+cross_validation/*/
+train_model/*/
+.idea/*
+.idea
+__*
+.idea/workspace.xml
