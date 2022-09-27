@@ -1,5 +1,5 @@
 #  MembraneAI: Machine Learning Guided Polyamide Membrane with Exceptional Solute-Solute Selectivity and Permeance
-This repo is a support for our publication **Machine Learning Guided Polyamide Membrane with Exceptional Solute-Solute Selectivity and Permeance**, developed by [Zhiyao Luo](https://github.com/GilesLuo). 
+This repo is a support for our publication **Machine Learning Guided Polyamide Membrane with Exceptional Solute-Solute Selectivity and Permeance** by Hao Deng, Zhiyao Luo, Joe Imbrogono, Tim M Swenson, Zhongyi Jiang, Xiaonan Wang, and Sui Zhang. 
 A special thanks goes to [Yaotian Yang](https://github.com/yyt-2378) for his generous help on sorting out this repo.
 
 ## General info
