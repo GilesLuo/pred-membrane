@@ -26,7 +26,7 @@ To simply run by the train-test manner, run `train_torch.py` directly<br>
 
 Alternatively,  run `train_validate.py` to get the optimal hyperparameters on the train-val dataset, 
 and retrain models by running `train_torch.py` with the optimized hyperparameters.
-![image](https://github.com/GilesLuo/pred-membrane/blob/Image/image1.png)
+![image](https://github.com/GilesLuo/pred-membrane/blob/main/Flow%20frame%20diagram.jpg)
 
 ## file structure
 ```
